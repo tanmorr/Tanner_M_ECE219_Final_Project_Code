@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * This class allows for the easy storage of all the values and variables associated with the
  * dataset for a particular disk.
  *
- * @author Tanner M
+ * @author Tanner Morrison
  * @version 1.0
  */
 public class DataSet {
